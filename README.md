@@ -1,5 +1,6 @@
 # Week10_10
 
+Integrantes: DIEGO ALEJANDRO RUIZ ALFONSO - ppmurcia@ucundinamarca.edu.co PEDRO PASCUAL MURCIA VARGAS - ppmurcia@ucundinamarca.edu.co JHON EDUARD TINJACA CRUZ - jetinjaca@ucundinamarca.edu.co JULIAN DAVID SILVA GUZMAN - jdsilva@ucundinamarca.edu.co
 
 ## Explicación del Sistema de Reconocimiento Facial
 
